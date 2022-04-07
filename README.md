@@ -10,7 +10,7 @@ Have a look at the different Projects I made:
 
 Tea Station: https://lalit-tea-station-project.netlify.app/
 
-Backroads: https://backroads-lalit.netlify.app/
+Backroads: https://lalit-backroads.netlify.app/
 
 FloppyDude:
 
