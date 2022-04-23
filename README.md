@@ -14,4 +14,6 @@ Backroads: https://lalit-backroads.netlify.app/
 
 FloppyDude:
 
-Download JAR File from the linked repository.https://github.com/LalitBing/FloppyDude/blob/main/FloppyDude.jar
+Download JAR File from the linked repository.
+
+https://github.com/LalitBing/FloppyDude/blob/main/FloppyDude.jar
