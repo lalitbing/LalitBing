@@ -6,6 +6,10 @@ Learning and creating cool new projects along the way. 📽
 
 Here is my Email📧 - Lalit9013@gmail.com
 
+Find My Resume:
+
+Lalit's Resume.pdf
+
 Have a look at the different Projects I made:
 
 Tea Station: https://lalit-tea-station-project.netlify.app/
