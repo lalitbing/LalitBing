@@ -8,7 +8,7 @@ Here is my Email📧 - Lalit9013@gmail.com
 
 Find My Resume:
 
-Lalit's Resume.pdf
+https://github.com/LalitBing/LalitBing/blob/main/Lalit's%20Resume.pdf
 
 Have a look at the different Projects I made:
 
