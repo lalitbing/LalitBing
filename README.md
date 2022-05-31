@@ -16,6 +16,12 @@ Tea Station: https://lalit-tea-station-project.netlify.app/
 
 Backroads: https://lalit-backroads.netlify.app/
 
+Comfy-Store:
+
+An Ecommerce platform with a modern UI. 
+
+https://comfy-store-lalit.netlify.app/
+
 FloppyDude:
 
 Download JAR File from the linked repository.
