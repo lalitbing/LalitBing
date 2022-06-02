@@ -6,9 +6,9 @@ Learning and creating cool new projects along the way. 📽
 
 Here is my Email📧 - Lalit9013@gmail.com
 
-Find My Resume:
+Find My Resume on my LinkedIn ID:
 
-https://github.com/LalitBing/LalitBing/blob/main/Lalit's%20Resume.pdf
+https://www.linkedin.com/in/lalit-sharma-74959515a/
 
 Have a look at the different Projects I made:
 
