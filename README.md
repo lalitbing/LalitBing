@@ -24,7 +24,7 @@ An Ecommerce platform with a modern UI.
 
 FloppyDude:
 
-Download JAR File from the linked repository.
+Download JAR File from the linked repository. [JAR File](https://github.com/LalitBing/FloppyDude/blob/main/FloppyDude.jar)
 
-[JAR File](https://github.com/LalitBing/FloppyDude/blob/main/FloppyDude.jar)
+
 
