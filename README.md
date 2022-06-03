@@ -12,13 +12,13 @@ Find My Resume on my LinkedIn ID:
 
 Have a look at the different Projects I made:
 
-Tea Station [Live Project](https://lalit-tea-station-project.netlify.app/)
+Tea Station ☕ [Live Project](https://lalit-tea-station-project.netlify.app/)
 
-Backroads [Live Project](https://lalit-backroads.netlify.app/)
+Backroads 🧳🚌 [Live Project](https://lalit-backroads.netlify.app/)
 
-Color Palette Generator [Live Project](https://color-palette-generator-lalit.netlify.app/)
+Color Palette Generator 🎨 [Live Project](https://color-palette-generator-lalit.netlify.app/)
 
-Comfy-Store [Live Project](https://comfy-store-lalit.netlify.app/)
+Comfy-Store 🏪 [Live Project](https://comfy-store-lalit.netlify.app/)
 
 An Ecommerce platform with a modern UI. 
 
