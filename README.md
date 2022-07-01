@@ -16,7 +16,7 @@ Comfy-Store 🏪 [Live Project](https://comfy-store-lalit.netlify.app/)
 
 Color Palette Generator 🎨 [Live Project](https://color-palette-generator-lalit.netlify.app/)
 
-Cocktails API [Live Project](https://cocktails-api-lalit.netlify.app/)
+Cocktails API 🍹 [Live Project](https://cocktails-api-lalit.netlify.app/)
 
 Tea Station ☕ [Live Project](https://lalit-tea-station-project.netlify.app/)
 
