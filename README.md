@@ -1,4 +1,4 @@
-Hi, I am Lalit Sharma, AKA [@LalitBing](https://github.com/LalitBing). 🤠
+Hi, I am Lalit Sharma, AKA [@LalitBing](https://github.com/lalitbing). 🤠
 
 Interested in Website Development.🕸
 
