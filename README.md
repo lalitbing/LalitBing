@@ -8,7 +8,7 @@ Here is my Email📧 - Lalit9013@gmail.com
 
 Find My Resume on my in the link below:
 
-[Resume Google Drive]([https://www.linkedin.com/in/lalit-kumar-sharma-74959515a/](https://drive.google.com/file/d/1ItVMxuy2yeY8LT6EoblIrYL7s7YrxNn5/view?usp=sharing))
+[Resume Google Drive](https://drive.google.com/file/d/1ItVMxuy2yeY8LT6EoblIrYL7s7YrxNn5/view?usp=sharing)
 
 Have a look at the different Projects I made:
 
