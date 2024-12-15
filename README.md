@@ -1,6 +1,6 @@
-Hi, I am Lalit Sharma, AKA [@lalitbing](https://github.com/lalitbing). 🤠
+Hi, I am Lalit Sharma, AKA [@lalitbing](https://github.com/lalitbing).
 
-Experienced Frontend Developer. 🕸️
+Experienced Frontend Developer.
 
 Learning and creating cool new projects along the way. 📽
 
