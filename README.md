@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lalit Sharma
+# Hi, I'm Lalit Sharma
 
 Full-stack developer who enjoys building things from scratch, breaking them at scale, and then calmly fixing them with better architecture.
 
@@ -6,7 +6,7 @@ Currently shipping code, dashboards, SDKs, and the occasional existential though
 
 ---
 
-## 🧠 What I Do (Mostly on Purpose)
+## What I Do (Mostly on Purpose)
 
 - Designing clean, boring-in-a-good-way APIs
 - Turning raw events into dashboards people actually understand
@@ -16,7 +16,7 @@ I enjoy problems that start with *“we just need a small feature”*  and end w
 
 ---
 
-## 🚀 Projects I’ve Built (Yes, From Scratch)
+## Projects I’ve Built (Yes, From Scratch)
 
 ### Pulseboard
 A self-hosted analytics platform because I thought,  
