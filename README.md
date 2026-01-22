@@ -1,32 +1,96 @@
-Hi, I am Lalit Sharma, AKA [@lalitbing](https://github.com/lalitbing).
+# 👋 Hi, I'm Lalit Sharma
 
-Experienced Frontend Developer.
+Full-stack developer who enjoys building things from scratch, breaking them at scale, and then calmly fixing them with better architecture.
 
-Learning and creating cool new projects along the way. 📽
+Currently shipping code, dashboards, SDKs, and the occasional existential thought about state management.
 
-Here is my Email📧 - Lalit9013@gmail.com
+---
 
-Find My Resume on my in the link below:
+## 🧠 What I Do (Mostly on Purpose)
 
-[Resume Google Drive](https://drive.google.com/file/d/1ItVMxuy2yeY8LT6EoblIrYL7s7YrxNn5/view?usp=sharing)
+- Designing clean, boring-in-a-good-way APIs
+- Turning raw events into dashboards people actually understand
+- Obsess over **DX**, clean APIs, and not waking up to things broken by RegEx.
 
-Have a look at the different Projects I made:
+I enjoy problems that start with *“we just need a small feature”*  and end with *“okay, we need proper architecture now.”*
 
-Comfy-Store 🏪 [Live Project](https://comfy-store-lalit.netlify.app/)
+---
 
-Color Palette Generator 🎨 [Live Project](https://color-palette-generator-lalit.netlify.app/)
+## 🚀 Projects I’ve Built (Yes, From Scratch)
 
-Cocktails API 🍹 [Live Project](https://cocktails-api-lalit.netlify.app/)
+### Pulseboard
+A self-hosted analytics platform because I thought,  
+> “How hard can analytics be?”
 
-Tea Station ☕ [Live Project](https://lalit-tea-station-project.netlify.app/)
+Turns out: *hard enough to be fun.*
 
-Backroads 🧳🚌 [Live Project](https://lalit-backroads.netlify.app/)
+**Highlights:**
+- Custom JS SDK with offline buffering & batching
+- Queue-based ingestion pipeline
+- Near real-time dashboards (React + Recharts)
+- Designed end-to-end: SDK → APIs → backend → UI
 
-An Ecommerce platform with a modern UI. 
+> Built it because product analytics should be **transparent, controllable, and not a black box**.
 
-FloppyDude:
+---
 
-Download JAR File from the linked repository. [JAR File](https://github.com/LalitBing/FloppyDude/blob/main/FloppyDude.jar)
+### Coompiler
+A web-based playground for experimenting with code & ideas without overthinking setup.
 
+---
 
+### Palette Studio
+Because developers also need opinions about colors, not just semicolons.
 
+---
+
+### Comfy Store
+An e-commerce frontend experiment proving once again that *state management is harder than it looks.*
+
+---
+
+## Tech I Regularly Argue With
+
+**Frontend:**  
+React, TypeScript, Vite, Tailwind, Recharts
+
+**Backend:**  
+Node.js, Express, REST APIs, SDK design
+
+**Data & Infra:**  
+PostgreSQL, MongoDB, Redis, Docker, Prometheus, Grafana
+
+**Other:**  
+Queues, batching, buffering, dashboards, system design diagrams at 1 AM
+
+---
+
+## Currently
+
+- Part of an **Agentic AI team at Cadence**
+- Exploring where **analytics meets intelligent systems**
+- Still refactoring things that technically already work
+
+---
+
+## Developer Philosophy
+
+- If it’s not observable, it *will* break silently  
+- If the API feels awkward, someone will misuse it  
+- If it works in production, **document how**
+
+---
+
+## Let’s Talk
+
+If you want to:
+- Build dashboards
+- Design SDKs
+- Talk analytics architecture
+- Or debate why frontend bugs feel more personal
+
+You’ll probably enjoy the conversation.
+
+---
+
+*PS: Yes, I test in production — but only after staging approves it.*
