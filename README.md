@@ -35,7 +35,7 @@ React, TypeScript, Vite, Tailwind, Recharts
 Node.js, Express, REST APIs, SDK design
 
 **Data & Infra:**  
-PostgreSQL, MongoDB, Redis, Docker, Prometheus, Grafana
+PostgreSQL, MongoDB, Redis, Docker
 
 **Other:**  
 Queues, batching, buffering, dashboards, system design diagrams at 1 AM
