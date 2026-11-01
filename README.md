@@ -3,6 +3,7 @@
 **Full Stack Software Engineer** · React · Node.js · Python · AI platforms
 
 Full-stack engineer with close to 6 years of experience. At Cadence Design Systems I own internal platforms used by multiple teams, from the UI and REST APIs to the database and deployment. Before that I built the micro-frontend platform and shared login layer at Magic Edtech.
+
 ---
 
 ## Projects I've Built (From Scratch)
